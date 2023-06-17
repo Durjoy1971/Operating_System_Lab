@@ -14,7 +14,6 @@ using namespace std;
 struct Array
 {
     vector<int> resources;
-    int age;
 };
 
 int n, m;
